@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Neza
-- 👀 I’m interested in programing/game dev
-- 🌱 I’m currently learning everithing
-- 👍 I cant spell
+- 👋 Hi, I’m Nez
+- 👀 Interested in programing/game dev
