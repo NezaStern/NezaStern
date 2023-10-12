@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Nez
-- 👀 Interested in programing/game dev
+Slay
