@@ -1,5 +1,5 @@
-Hey, im Neza
+Hey, im Nez
 
-17yo CS student
+18yo CS student
 
 <3
